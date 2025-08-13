@@ -1,0 +1,140 @@
+{
+  "quick_commands": [
+    {
+      "name": "打开任务管理器",
+      "command": "taskmgr",
+      "description": "打开Windows任务管理器",
+      "category": "系统工具"
+    },
+    {
+      "name": "打开系统属性",
+      "command": "sysdm.cpl",
+      "description": "打开系统属性对话框",
+      "category": "系统工具"
+    },
+    {
+      "name": "打开设备管理器",
+      "command": "devmgmt.msc",
+      "description": "打开设备管理器",
+      "category": "系统工具"
+    },
+    {
+      "name": "打开服务",
+      "command": "services.msc",
+      "description": "打开Windows服务管理器",
+      "category": "系统工具"
+    },
+    {
+      "name": "打开注册表编辑器",
+      "command": "regedit",
+      "description": "打开注册表编辑器",
+      "category": "系统工具"
+    },
+    {
+      "name": "打开命令提示符",
+      "command": "cmd",
+      "description": "打开命令提示符",
+      "category": "系统工具"
+    },
+    {
+      "name": "打开计算器",
+      "command": "calc",
+      "description": "打开Windows计算器",
+      "category": "实用工具"
+    },
+    {
+      "name": "打开记事本",
+      "command": "notepad",
+      "description": "打开记事本",
+      "category": "实用工具"
+    },
+    {
+      "name": "打开画图",
+      "command": "mspaint",
+      "description": "打开画图程序",
+      "category": "实用工具"
+    },
+    {
+      "name": "打开控制面板",
+      "command": "control",
+      "description": "打开控制面板",
+      "category": "系统工具"
+    },
+    {
+      "name": "清理临时文件",
+      "command": "cleanmgr",
+      "description": "打开磁盘清理工具",
+      "category": "系统维护"
+    },
+    {
+      "name": "磁盘碎片整理",
+      "command": "dfrgui",
+      "description": "打开磁盘碎片整理工具",
+      "category": "系统维护"
+    },
+    {
+      "name": "系统文件检查",
+      "command": "sfc /scannow",
+      "description": "检查系统文件完整性",
+      "category": "系统维护"
+    },
+    {
+      "name": "网络诊断",
+      "command": "netsh wlan show networks",
+      "description": "显示无线网络信息",
+      "category": "网络工具"
+    },
+    {
+      "name": "查看IP配置",
+      "command": "ipconfig /all",
+      "description": "显示详细IP配置信息",
+      "category": "网络工具"
+    },
+    {
+      "name": "查看网络连接",
+      "command": "netstat -an",
+      "description": "显示网络连接状态",
+      "category": "网络工具"
+    },
+    {
+      "name": "查看进程",
+      "command": "tasklist",
+      "description": "显示当前运行的进程",
+      "category": "系统工具"
+    },
+    {
+      "name": "查看系统信息",
+      "command": "systeminfo",
+      "description": "显示系统详细信息",
+      "category": "系统工具"
+    },
+    {
+      "name": "查看磁盘使用情况",
+      "command": "dir",
+      "description": "显示目录内容",
+      "category": "文件管理"
+    },
+    {
+      "name": "查看环境变量",
+      "command": "set",
+      "description": "显示环境变量",
+      "category": "系统工具"
+    }
+  ],
+  "custom_commands": [
+    {
+      "name": "自定义命令1",
+      "command": "echo Hello World",
+      "description": "示例自定义命令",
+      "category": "自定义"
+    }
+  ],
+  "categories": [
+    "系统工具",
+    "实用工具",
+    "系统维护",
+    "网络工具",
+    "文件管理",
+    "自定义"
+  ]
+} 
