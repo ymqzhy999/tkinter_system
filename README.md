@@ -3,6 +3,11 @@
 ## 项目概述
 
 本项目是一个基于Tkinter的桌面应用程序，旨在为用户提供便捷的电脑管理和维护工具。通过图形化界面，用户可以轻松执行常用的系统操作，无需记忆复杂的命令行指令。
+<img width="1191" height="937" alt="image" src="https://github.com/user-attachments/assets/1c343749-a23b-4289-9698-1c1680c0ceef" />
+<img width="915" height="693" alt="image" src="https://github.com/user-attachments/assets/d72a66ac-21ec-4421-84e9-eb67e532fd81" />
+<img width="2560" height="1358" alt="image" src="https://github.com/user-attachments/assets/c5ac28dc-0b59-4383-b58b-3698507bf4dc" />
+<img width="2277" height="1172" alt="image" src="https://github.com/user-attachments/assets/e1dc7734-d568-46b8-b1fc-b46dff7e3c16" />
+
 
 ## 技术架构
 
