@@ -7,6 +7,7 @@
 <img width="915" height="693" alt="image" src="https://github.com/user-attachments/assets/d72a66ac-21ec-4421-84e9-eb67e532fd81" />
 <img width="2560" height="1358" alt="image" src="https://github.com/user-attachments/assets/c5ac28dc-0b59-4383-b58b-3698507bf4dc" />
 <img width="2277" height="1172" alt="image" src="https://github.com/user-attachments/assets/e1dc7734-d568-46b8-b1fc-b46dff7e3c16" />
+<img width="2555" height="1304" alt="image" src="https://github.com/user-attachments/assets/73e478b6-6c5a-4299-b01f-57968b8ed38d" />
 
 
 ## 技术架构
