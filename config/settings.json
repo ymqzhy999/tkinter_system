@@ -1,0 +1,45 @@
+{
+  "theme": "default",
+  "language": "zh_CN",
+  "auto_update": true,
+  "startup_scan": false,
+  "log_level": "INFO",
+  "window_size": {
+    "width": 800,
+    "height": 600
+  },
+  "window_position": {
+    "x": -1,
+    "y": -1
+  },
+  "features": {
+    "system_monitoring": true,
+    "network_tools": true,
+    "file_management": true,
+    "maintenance_tools": true
+  },
+  "monitoring": {
+    "update_interval": 2,
+    "enable_cpu_monitoring": true,
+    "enable_memory_monitoring": true,
+    "enable_disk_monitoring": true,
+    "enable_network_monitoring": true
+  },
+  "network": {
+    "default_ping_count": 4,
+    "default_timeout": 2,
+    "common_ports": [21, 22, 23, 25, 53, 80, 110, 143, 443, 993, 995, 3306, 3389, 5432, 8080]
+  },
+  "file_management": {
+    "default_hash_algorithm": "md5",
+    "max_file_size_for_hash": 104857600,
+    "enable_file_preview": true,
+    "default_compression_type": "zip"
+  },
+  "maintenance": {
+    "auto_clean_temp": false,
+    "auto_clean_browser_cache": false,
+    "enable_startup_optimization": true,
+    "enable_service_optimization": true
+  }
+} 
